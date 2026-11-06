@@ -1,0 +1,22 @@
+
+# Maven generated files
+target/
+
+# IDE settings
+.vscode/
+.idea/
+*.class
+
+# Environment variables and secrets
+.env
+.env.*
+*.secret
+credentials.properties
+
+# Temporary files
+*.log
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
